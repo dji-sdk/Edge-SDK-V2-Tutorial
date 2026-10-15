@@ -4,8 +4,8 @@ Developer documentation for DJI Edge SDK V2 (ESDK V2), which enables third-party
 
 ## Documentation
 
-- Chinese: https://developer.dji.com/doc/edge-sdk-iot-tutorial/cn/
-- English: https://developer.dji.com/doc/edge-sdk-iot-tutorial/en/
+- Chinese(`docs/cn/`): https://developer.dji.com/doc/edge-sdk-iot-tutorial/cn/ 
+- English(`docs/en/`): https://developer.dji.com/doc/edge-sdk-iot-tutorial/en/ 
 
 ### Contents
 
@@ -15,11 +15,6 @@ Developer documentation for DJI Edge SDK V2 (ESDK V2), which enables third-party
 - **API Reference** — MQTT access & authentication, RID data reporting
 - **Error Code** — Error code reference
 - **FAQ** — Frequently asked questions
-
-## Languages
-
-- Chinese: `docs/cn/` → https://developer.dji.com/doc/edge-sdk-iot-tutorial/cn/
-- English: `docs/en/` → https://developer.dji.com/doc/edge-sdk-iot-tutorial/en/
 
 ## License
 
